@@ -1,7 +1,7 @@
 <h1>[python]WindowsError的错误代码</h1>
 
 
-<li>0操作成功完成</li>
+0操作成功完成
 
 1功能错误。
 
